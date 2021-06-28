@@ -1,0 +1,10 @@
+1、网络抓包  fiddler  charles
+2、接口调试 postman jmeter
+3、app测试 monkey的使用
+  自动化测试 selenium appium
+4、常用软件
+ jenkins 	持续集成工具（app打包、代码构建、脚本执行）
+wiki	在线文档工具
+jira	项目管理、bug管理
+gitlab	代码仓库
+
